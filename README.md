@@ -1,4 +1,4 @@
-# KDP Amazon Scanner
+# KDP Amazon Scanner (FireFox)
 
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Userscript-black?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-2.0-gold?style=for-the-badge)
