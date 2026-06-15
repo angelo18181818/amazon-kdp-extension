@@ -5,7 +5,7 @@
 ![Amazon](https://img.shields.io/badge/Amazon-KDP%20Research-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
-**KDP Amazon Scanner** is a Tampermonkey userscript designed to help Amazon KDP researchers, self-publishers, and niche hunters analyze Amazon search results faster.
+**KDP Amazon Scanner (FireFox)** is a Tampermonkey userscript designed to help Amazon KDP researchers, self-publishers, and niche hunters analyze Amazon search results faster.
 
 It automatically scans Amazon product listings and displays useful publishing signals directly inside the search results page, including:
 
