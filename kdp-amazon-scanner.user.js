@@ -27,7 +27,7 @@
 (function () {
     'use strict';
 
-    const MAX_CONCURRENT = 6;
+    const MAX_CONCURRENT = 2;
     const ONLY_BOOKS = false;
 
     const dataCache = new Map();
